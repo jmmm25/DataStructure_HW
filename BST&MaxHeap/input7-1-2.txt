@@ -1,0 +1,16 @@
+i 7
+i 5
+i 2
+i 9
+i 3
+i 1
+i 8
+pi
+pr
+po
+f 5
+f 4
+d 2
+f 2
+f 9
+f 1
